@@ -1,0 +1,157 @@
+
+
+.navbar .Navlogo{
+    width: auto;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    object-fit: contain;
+    font-size: 30px;
+    font-family: anta; 
+    color: var(--Blackish);
+    background: transparent;
+  
+  }
+  
+  
+  
+  .heading{
+    font-size: 40px;
+    color: var(--Blackish);
+    margin-bottom: 1rem;
+  
+    font-family: Poppins;
+    font-style: normal;
+    text-align: center;
+    text-transform: none;
+  }
+  
+  .spanColor{
+    font-size: 48px;
+    color: var(--Blackish);
+    margin-bottom: 1rem;
+  
+    font-style: normal;
+    text-align: center;
+    text-transform: none;
+  }
+  
+  .subHeading{
+    font-size: 28px;
+    font-family: poppins; 
+    color: var(--Blackish);
+    font-style: normal;
+    text-align: center;
+    text-transform: none;
+  }
+  
+  .normalText{
+    font-size: 1rem;
+    font-weight: 300;
+    color: var(--Blackish);
+    margin-bottom: 1rem;
+    text-transform: none;
+  }
+  .container{
+    width: 80%;
+    align-self: center;
+  }
+  
+  
+  .zego-img{
+    width: 400px;
+    height: auto;
+    border-radius: 100%;
+    object-fit: cover;
+    margin: 30px auto;
+  }
+  
+  
+  
+  .btn1{
+    position: relative;
+    width: 120px;
+    text-align: center;
+    cursor: pointer;
+    height: 40px;
+    color: white;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    flex-direction: column;
+    justify-content: center;
+    padding: 12px;
+    gap: 12px;
+    border-radius: 12px;
+    font-size: 14px;
+    border: 4px solid transparent;
+    outline: none;
+    /* background: linear-gradient(rgb(0, 0, 0), rgb(0, 0, 0)) padding-box,linear-gradient(-45deg, #e81cff 0%, #40c9ff 100%) border-box; */
+    background: var(--color-blue);
+  }
+  
+  
+.btn {
+    position: relative;
+    width: 120px;
+    height: 40px;
+    background-color: #000;
+    display: flex;
+    font-size: 16px;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+    justify-content: center;
+    border: none;
+    padding: 12px;
+    gap: 12px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  .btn::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    left: -4px;
+    top: 1px;
+    margin: auto;
+    width: 128px;
+    height: 48px;
+    border-radius: 10px;
+    /* background: linear-gradient(-45deg, #e81cff 0%, #40c9ff 100% ); */
+    background: var(--color-blue);
+
+    z-index: -1;
+    pointer-events: none;
+    transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+  
+  .btn::after {
+    content: "";
+    z-index: -9;
+    position: absolute;
+    inset: 0;
+    /* background: linear-gradient(-45deg, #fc00ff 0%, #00dbde 100% ); */
+    background: var(--color-blue);
+
+    transform: translate3d(0, 0, 0) scale(0.95);
+    filter: blur(20px);
+  }
+  
+  .btn:hover::after {
+    filter: blur(30px);
+  }
+  
+  .btn:hover::before {
+    transform: rotate(-180deg);
+  }
+  
+  .btn:active::before {
+    scale: 0.7;
+  }
+  
+  
+  
+  

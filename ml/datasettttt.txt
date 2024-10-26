@@ -1,0 +1,591 @@
+E-commerce (electronic commerce) is the activity of electronically buying or selling products on online services or over the Internet. E-commerce draws on technologies such as mobile commerce, electronic funds transfer, supply chain management, Internet marketing, online transaction processing, electronic data interchange (EDI), inventory management systems, and automated data collection systems. E-commerce is the largest sector of the electronics industry and is in turn driven by the technological advances of the semiconductor industry.
+
+Defining e-commerce
+The term was coined and first employed by Robert Jacobson, Principal Consultant to the California State Assembly's Utilities & Commerce Committee, in the title and text of California's Electronic Commerce Act, carried by the late Committee Chairwoman Gwen Moore (D-L.A.) and enacted in 1984.
+
+E-commerce typically uses the web for at least a part of a transaction's life cycle although it may also use other technologies such as e-mail. Typical e-commerce transactions include the purchase of products (such as books from Amazon) or services (such as music downloads in the form of digital distribution such as the iTunes Store).[1] There are three areas of e-commerce: online retailing, electronic markets, and online auctions. E-commerce is supported by electronic business.[2] The existence value of e-commerce is to allow consumers to shop online and pay online through the Internet, saving the time and space of customers and enterprises, greatly improving transaction efficiency, especially for busy office workers, and also saving a lot of valuable time.[3]
+
+E-commerce businesses may also employ some or all of the following:
+
+Online shopping for retail sales direct to consumers via web sites and mobile apps, conversational commerce via live chat, chatbots, and voice assistants.[4]
+Providing or participating in online marketplaces, which process third-party business-to-consumer (B2C) or consumer-to-consumer (C2C) sales;
+Business-to-business (B2B) buying and selling.[5]
+Gathering and using demographic data through web contacts and social media.
+B2B electronic data interchange.
+Marketing to prospective and established customers by e-mail or fax (for example, with newsletters).
+Engaging in pretail for launching new products and services.
+Online financial exchanges for currency exchanges or trading purposes.
+There are five essential categories of E-commerce:[6]
+
+Business to Business
+Business to Consumer
+Business to Government
+Consumer to Business
+Consumer to Consumer
+Forms
+Contemporary electronic commerce can be classified into two categories. The first category is business based on types of goods sold (involves everything from ordering "digital" content for immediate online consumption, to ordering conventional goods and services, to "meta" services to facilitate other types of electronic commerce). The second category is based on the nature of the participant (B2B, B2C, C2B and C2C).[7]
+
+On the institutional level, big corporations and financial institutions use the internet to exchange financial data to facilitate domestic and international business. Data integrity and security are pressing issues for electronic commerce.
+
+Aside from traditional e-commerce, the terms m-Commerce (mobile commerce) as well (around 2013) t-Commerce[8] have also been used.
+
+Governmental regulation
+In the United States, California's Electronic Commerce Act (1984), enacted by the Legislature, the more recent California Privacy Rights Act (2020), enacted through a popular election proposition and to control specifically how electronic commerce may be conducted in California. In the US in its entirety, electronic commerce activities are regulated more broadly by the Federal Trade Commission (FTC). These activities include the use of commercial e-mails, online advertising and consumer privacy. The CAN-SPAM Act of 2003 establishes national standards for direct marketing over e-mail. The Federal Trade Commission Act regulates all forms of advertising, including online advertising, and states that advertising must be truthful and non-deceptive.[9] Using its authority under Section 5 of the FTC Act, which prohibits unfair or deceptive practices, the FTC has brought a number of cases to enforce the promises in corporate privacy statements, including promises about the security of consumers' personal information.[10] As a result, any corporate privacy policy related to e-commerce activity may be subject to enforcement by the FTC.
+
+The Ryan Haight Online Pharmacy Consumer Protection Act of 2008, which came into law in 2008, amends the Controlled Substances Act to address online pharmacies.[11]
+
+Conflict of laws in cyberspace is a major hurdle for harmonization of legal framework for e-commerce around the world. In order to give a uniformity to e-commerce law around the world, many countries adopted the UNCITRAL Model Law on Electronic Commerce (1996).[12]
+
+Internationally there is the International Consumer Protection and Enforcement Network (ICPEN), which was formed in 1991 from an informal network of government customer fair trade organisations. The purpose was stated as being to find ways of co-operating on tackling consumer problems connected with cross-border transactions in both goods and services, and to help ensure exchanges of information among the participants for mutual benefit and understanding. From this came Econsumer.gov, an ICPEN initiative since April 2001. It is a portal to report complaints about online and related transactions with foreign companies.
+
+There is also Asia Pacific Economic Cooperation. APEC was established in 1989 with the vision of achieving stability, security and prosperity for the region through free and open trade and investment. APEC has an Electronic Commerce Steering Group as well as working on common privacy regulations throughout the APEC region.
+
+In Australia, trade is covered under Australian Treasury Guidelines for electronic commerce and the Australian Competition & Consumer Commission[13] regulates and offers advice on how to deal with businesses online,[14] and offers specific advice on what happens if things go wrong.[15]
+
+The European Union undertook an extensive enquiry into e-commerce in 2015-16 which observed significant growth in the development of e-commerce, along with some developments which raised concerns, such as increased use of selective distribution systems, which allow manufacturers to control routes to market, and "increased use of contractual restrictions to better control product distribution". The European Commission felt that some emerging practices might be justified if they could improve the quality of product distribution, but "others may unduly prevent consumers from benefiting from greater product choice and lower prices in e-commerce and therefore warrant Commission action" in order to promote compliance with EU competition rules.[16]
+
+In the United Kingdom, the Financial Services Authority (FSA)[17] was formerly the regulating authority for most aspects of the EU's Payment Services Directive (PSD), until its replacement in 2013 by the Prudential Regulation Authority and the Financial Conduct Authority.[18] The UK implemented the PSD through the Payment Services Regulations 2009 (PSRs), which came into effect on 1 November 2009. The PSR affects firms providing payment services and their customers. These firms include banks, non-bank credit card issuers and non-bank merchant acquirers, e-money issuers, etc. The PSRs created a new class of regulated firms known as payment institutions (PIs), who are subject to prudential requirements. Article 87 of the PSD requires the European Commission to report on the implementation and impact of the PSD by 1 November 2012.[19]
+
+In India, the Information Technology Act 2000 governs the basic applicability of e-commerce.
+
+In China, the Telecommunications Regulations of the People's Republic of China (promulgated on 25 September 2000), stipulated the Ministry of Industry and Information Technology (MIIT) as the government department regulating all telecommunications related activities, including electronic commerce.[20] On the same day, the Administrative Measures on Internet Information Services were released, the first administrative regulations to address profit-generating activities conducted through the Internet, and lay the foundation for future regulations governing e-commerce in China.[21] On 28 August 2004, the eleventh session of the tenth NPC Standing Committee adopted an Electronic Signature Law, which regulates data message, electronic signature authentication and legal liability issues. It is considered the first law in China's e-commerce legislation. It was a milestone in the course of improving China's electronic commerce legislation, and also marks the entering of China's rapid development stage for electronic commerce legislation.[22]
+
+Global trends
+E-commerce has become an important tool for small and large businesses worldwide, not only to sell to customers, but also to engage them.[23][24]
+
+Cross-border e-Commerce is also an essential field for e-Commerce businesses.  It has responded to the trend of globalization. It shows that numerous firms have opened up new businesses, expanded new markets, and overcome trade barriers; more and more enterprises have started exploring the cross-border cooperation field. In addition, compared with traditional cross-border trade, the information on cross-border e-commerce is more concealed. In the era of globalization, cross-border e-commerce for inter-firm companies means the activities, interactions, or social relations of two or more e-commerce enterprises. However, the success of cross-border e-commerce promotes the development of small and medium-sized firms, and it has finally become a new transaction mode. It has helped the companies solve financial problems and realize the reasonable allocation of resources field. SMEs ( small and medium enterprises) can also precisely match the demand and supply in the market, having the industrial chain majorization and creating more revenues for companies.[25]
+
+In 2012, e-commerce sales topped $1 trillion for the first time in history.[26]
+
+Mobile devices are playing an increasing role in the mix of e-commerce, this is also commonly called mobile commerce, or m-commerce. In 2014, one estimate saw purchases made on mobile devices making up 25% of the market by 2017.[27]
+
+For traditional businesses, one research stated that information technology and cross-border e-commerce is a good opportunity for the rapid development and growth of enterprises. Many companies have invested an enormous volume of investment in mobile applications. The DeLone and McLean Model stated that three perspectives contribute to a successful e-business: information system quality, service quality and users' satisfaction.[28] There is no limit of time and space, there are more opportunities to reach out to customers around the world, and to cut down unnecessary intermediate links, thereby reducing the cost price, and can benefit from one on one large customer data analysis, to achieve a high degree of personal customization strategic plan, in order to fully enhance the core competitiveness of the products in the company.[29]
+
+Modern 3D graphics technologies, such as Facebook 3D Posts, are considered by some social media marketers and advertisers as a preferable way to promote consumer goods than static photos, and some brands like Sony are already paving the way for augmented reality commerce. Wayfair now lets you inspect a 3D version of its furniture in a home setting before buying.[30]
+
+China
+Main article: E-commerce in China
+Among emerging economies, China's e-commerce presence continues to expand every year. With 668 million Internet users as of 2014, China's online shopping sales reached $253 billion in the first half of 2015, accounting for 10% of total Chinese consumer retail sales in that period.[31] The Chinese retailers have been able to help consumers feel more comfortable shopping online.[32] e-commerce transactions between China and other countries increased 32% to 2.3 trillion yuan ($375.8 billion) in 2012 and accounted for 9.6% of China's total international trade.[33] In 2013, Alibaba had an e-commerce market share of 80% in China.[34] In 2014, Alibaba still dominated the B2B marketplace in China with a market share of 44.82%, followed by several other companies including Made-in-China.com at 3.21%, and GlobalSources.com at 2.98%, with the total transaction value of China's B2B market exceeding 4.5 billion yuan.[35]
+
+China is also the largest e-commerce market in the world by value of sales, with an estimated US$899 billion in 2016.[36] It accounted for 42.4% of worldwide retail e-commerce in that year, the most of any country.[37]: 110  Research shows that Chinese consumer motivations are different enough from Western audiences to require unique e-commerce app designs instead of simply porting Western apps into the Chinese market.[38]
+
+The expansion of e-commerce in China has resulted in the development of Taobao villages, clusters of e-commerce businesses operating in rural areas.[37]: 112  Because Taobao villages have increased the incomes or rural people and entrepreneurship in rural China, Taobao villages have become a component of rural revitalization strategies.[39]: 278 
+
+In 2015, the State Council promoted the Internet Plus initiative, a five-year plan to integrate traditional manufacturing and service industries with big data, cloud computing, and Internet of things technology.[40]: 44  The State Council provided support for Internet Plus through policy support in area including cross-border e-commerce and rural e-commerce.[40]: 44 
+
+In 2019, the city of Hangzhou established a pilot program artificial intelligence-based Internet Court to adjudicate disputes related to e-commerce and internet-related intellectual property claims.[41]: 124 
+
+Europe
+In 2010, the United Kingdom had the highest per capita e-commerce spending in the world.[42] As of 2013, the Czech Republic was the European country where e-commerce delivers the biggest contribution to the enterprises' total revenue. Almost a quarter (24%) of the country's total turnover is generated via the online channel.[43]
+
+Arab states
+The rate of growth of the number of internet users in the Arab countries has been rapid – 13.1% in 2015. A significant portion of the e-commerce market in the Middle East comprises people in the 30–34 year age group. Egypt has the largest number of internet users in the region, followed by Saudi Arabia and Morocco; these constitute 3/4th of the region's share. Yet, internet penetration is low: 35% in Egypt and 65% in Saudi Arabia.[44]
+
+The Gulf Cooperation Council countries have a rapidly growing market and are characterized by a population that becomes wealthier (Yuldashev). As such, retailers have launched Arabic-language websites as a means to target this population. Secondly, there are predictions of increased mobile purchases and an expanding internet audience (Yuldashev). The growth and development of the two aspects make the GCC countries become larger players in the electronic commerce market with time progress. Specifically, research shows that the e-commerce market is expected to grow to over $20 billion by 2020 among these GCC countries (Yuldashev). The e-commerce market has also gained much popularity among western countries, and in particular Europe and the U.S. These countries have been highly characterized by consumer-packaged goods (CPG) (Geisler, 34). However, trends show that there are future signs of a reverse. Similar to the GCC countries, there has been increased purchase of goods and services in online channels rather than offline channels. Activist investors are trying hard to consolidate and slash their overall cost and the governments in western countries continue to impose more regulation on CPG manufacturers (Geisler, 36). In these senses, CPG investors are being forced to adapt to e-commerce as it is effective as well as a means for them to thrive.
+
+The future trends in the GCC countries will be similar to that of the western countries. Despite the forces that push business to adapt e-commerce as a means to sell goods and products, the manner in which customers make purchases is similar in countries from these two regions. For instance, there has been an increased usage of smartphones which comes in conjunction with an increase in the overall internet audience from the regions. Yuldashev writes that consumers are scaling up to more modern technology that allows for mobile marketing. However, the percentage of smartphone and internet users who make online purchases is expected to vary in the first few years. It will be independent on the willingness of the people to adopt this new trend (The Statistics Portal). For example, UAE has the greatest smartphone penetration of 73.8 per cent and has 91.9 per cent of its population has access to the internet. On the other hand, smartphone penetration in Europe has been reported to be at 64.7 per cent (The Statistics Portal). Regardless, the disparity in percentage between these regions is expected to level out in future because e-commerce technology is expected to grow to allow for more users.
+
+The e-commerce business within these two regions will result in competition. Government bodies at the country level will enhance their measures and strategies to ensure sustainability and consumer protection (Krings, et al.). These increased measures will raise the environmental and social standards in the countries, factors that will determine the success of the e-commerce market in these countries. For example, an adoption of tough sanctions will make it difficult for companies to enter the e-commerce market while lenient sanctions will allow ease of companies. As such, the future trends between GCC countries and the Western countries will be independent of these sanctions (Krings, et al.). These countries need to make rational conclusions in coming up with effective sanctions.
+
+India
+Main article: E-commerce in India
+India has an Internet user base of about 460 million as of December 2017.[45] Despite being the third largest user base in the world, the penetration of the Internet is low compared to markets like the United States, United Kingdom or France but is growing at a much faster rate, adding around six million new entrants every month.[citation needed] In India, cash on delivery is the most preferred payment method, accumulating 75% of the e-retail activities.[46][citation needed] The India retail market is expected to rise from 2.5% in 2016 to 5% in 2020.[47]
+
+Brazil
+In 2013, Brazil's e-commerce was growing quickly with retail e-commerce sales expected to grow at a double-digit pace through 2014. By 2016, eMarketer expected retail e-commerce sales in Brazil to reach $17.3 billion.[48]
+
+Logistics
+Logistics in e-commerce mainly concerns fulfillment. Online markets and retailers have to find the best possible way to fill orders and deliver products. Small companies usually control their own logistic operation because they do not have the ability to hire an outside company. Most large companies hire a fulfillment service that takes care of a company's logistic needs.[49] The optimization of logistics processes that contains long-term investment in an efficient storage infrastructure system and adoption of inventory management strategies is crucial to prioritize customer satisfaction throughout the entire process, from order placement to final delivery. [50]
+
+E-commerce markets are growing at noticeable rates. The online market is expected to grow by 56% in 2015–2020. In 2017, retail e-commerce sales worldwide amounted to 2.3 trillion US dollars and e-retail revenues are projected to grow to 4.891 trillion US dollars in 2021.[51] Traditional markets are only expected 2% growth during the same time. Brick and mortar retailers are struggling because of online retailer's ability to offer lower prices and higher efficiency. Many larger retailers are able to maintain a presence offline and online by linking physical and online offerings.[52]
+
+E-commerce allows customers to overcome geographical barriers and allows them to purchase products anytime and from anywhere. Online and traditional markets have different strategies for conducting business. Traditional retailers offer fewer assortment of products because of shelf space where, online retailers often hold no inventory but send customer orders directly to the manufacturer. The pricing strategies are also different for traditional and online retailers. Traditional retailers base their prices on store traffic and the cost to keep inventory. Online retailers base prices on the speed of delivery.
+
+There are two ways for marketers to conduct business through e-commerce: fully online or online along with a brick and mortar store. Online marketers can offer lower prices, greater product selection, and high efficiency rates. Many customers prefer online markets if the products can be delivered quickly at relatively low price. However, online retailers cannot offer the physical experience that traditional retailers can. It can be difficult to judge the quality of a product without the physical experience, which may cause customers to experience product or seller uncertainty. Another issue regarding the online market is concerns about the security of online transactions. Many customers remain loyal to well-known retailers because of this issue.[53]
+
+Security is a primary problem for e-commerce in developed and developing countries. E-commerce security is protecting businesses' websites and customers from unauthorized access, use, alteration, or destruction. The type of threats include: malicious codes, unwanted programs (ad ware, spyware), phishing, hacking, and cyber vandalism. E-commerce websites use different tools to avert security threats. These tools include firewalls, encryption software, digital certificates, and passwords.[citation needed]
+
+Impact on supply chain management
+Main article: Supply chain management
+For a long time, companies had been troubled by the gap between the benefits which supply chain technology has and the solutions to deliver those benefits. However, the emergence of e-commerce has provided a more practical and effective way of delivering the benefits of the new supply chain technologies.[54]
+
+E-commerce has the capability to integrate all inter-company and intra-company functions, meaning that the three flows (physical flow, financial flow and information flow) of the supply chain could be also affected by e-commerce. The affections on physical flows improved the way of product and inventory movement level for companies. For the information flows, e-commerce optimized the capacity of information processing than companies used to have, and for the financial flows, e-commerce allows companies to have more efficient payment and settlement solutions.[54]
+
+In addition, e-commerce has a more sophisticated level of impact on supply chains: Firstly, the performance gap will be eliminated since companies can identify gaps between different levels of supply chains by electronic means of solutions; Secondly, as a result of e-commerce emergence, new capabilities such implementing ERP systems, like SAP ERP, Xero, or Megaventory, have helped companies to manage operations with customers and suppliers. Yet these new capabilities are still not fully exploited. Thirdly, technology companies would keep investing on new e-commerce software solutions as they are expecting investment return. Fourthly, e-commerce would help to solve many aspects of issues that companies may feel difficult to cope with, such as political barriers or cross-country changes. Finally, e-commerce provides companies a more efficient and effective way to collaborate with each other within the supply chain.[54]
+
+Impact on employment
+E-commerce helps create new job opportunities due to information related services, software app and digital products. It also causes job losses. The areas with the greatest predicted job-loss are retail, postal, and travel agencies. The development of e-commerce will create jobs that require highly skilled workers to manage large amounts of information, customer demands, and production processes. In contrast, people with poor technical skills cannot enjoy the wages welfare. On the other hand, because e-commerce requires sufficient stocks that could be delivered to customers in time, the warehouse becomes an important element. Warehouse needs more staff to manage, supervise and organize, thus the condition of warehouse environment will be concerned by employees.[55]
+
+Impact on customers
+E-commerce brings convenience for customers as they do not have to leave home and only need to browse websites online, especially for buying products which are not sold in nearby shops. It could help customers buy a wider range of products and save customers' time. Consumers also gain power through online shopping. They are able to research products and compare prices among retailers. Thanks to the practice of user-generated ratings and reviews from companies like Bazaarvoice, Trustpilot, and Yelp, customers can also see what other people think of a product, and decide before buying if they want to spend money on it.[56][57] Also, online shopping often provides sales promotion or discounts code, thus it is more price effective for customers. Moreover, e-commerce provides products' detailed information; even the in-store staff cannot offer such detailed explanation. Customers can also review and track the order history online.
+
+E-commerce technologies cut transaction costs by allowing both manufactures and consumers to skip through the intermediaries. This is achieved through by extending the search area best price deals and by group purchase. The success of e-commerce in urban and regional levels depend on how the local firms and consumers have adopted to e-commerce.[58]
+
+However, e-commerce lacks human interaction for customers, especially who prefer face-to-face connection. Customers are also concerned with the security of online transactions and tend to remain loyal to well-known retailers. In recent years, clothing retailers such as Tommy Hilfiger have started adding Virtual Fit platforms to their e-commerce sites to reduce the risk of customers buying the wrong sized clothes, although these vary greatly in their fit for purpose.[59] When the customer regret the purchase of a product, it involves returning goods and refunding process. This process is inconvenient as customers need to pack and post the goods. If the products are expensive, large or fragile, it refers to safety issues.[52]
+
+Impact on the environment
+In 2018, E-commerce generated 1.3 million short tons (1.2 megatonnes) of container cardboard in North America, an increase from 1.1 million (1.00)) in 2017. Only 35 percent of North American cardboard manufacturing capacity is from recycled content. The recycling rate in Europe is 80 percent and Asia is 93 percent. Amazon, the largest user of boxes, has a strategy to cut back on packing material and has reduced packaging material used by 19 percent by weight since 2016. Amazon is requiring retailers to manufacture their product packaging in a way that does not require additional shipping packaging. Amazon also has an 85-person team researching ways to reduce and improve their packaging and shipping materials.[60]
+
+Accelerated movement of packages around the world includes accelerated movement of living things, with all its attendant risks.[61] Weeds, pests, and diseases all sometimes travel in packages of seeds.[61] Some of these packages are part of brushing manipulation of e-commerce reviews.[61]
+
+Impact on traditional retail
+E-commerce has been cited as a major force for the failure of major U.S. retailers in a trend frequently referred to as a "retail apocalypse."[62] The rise of e-commerce outlets like Amazon has made it harder for traditional retailers to attract customers to their stores and forced companies to change their sales strategies. Many companies have turned to sales promotions and increased digital efforts to lure shoppers while shutting down brick-and-mortar locations.[63] The trend has forced some traditional retailers to shutter its brick and mortar operations.[64]
+
+E-commerce during COVID-19
+Further information: Economic impact of the COVID-19 pandemic
+In March 2020, global retail website traffic hit 14.3 billion visits[65] signifying an unprecedented growth of e-commerce during the lockdown of 2020. Later studies show that online sales increased by 25% and online grocery shopping increased by over 100% during the crisis in the United States.[66] Meanwhile, as many as 29% of surveyed shoppers state that they will never go back to shopping in person again; in the UK, 43% of consumers state that they expect to keep on shopping the same way even after the lockdown is over.[67]
+
+Retail sales of e-commerce shows that COVID-19 has a significant impact on e-commerce and its sales are expected to reach $6.5 trillion by 2023.[68]
+
+Samsung Group[3] (Korean: 삼성; Hanja: 三星; RR: samseong [samsʌŋ]; stylised as SΛMSUNG) is a South Korean multinational manufacturing conglomerate headquartered in Samsung Digital City, Suwon, South Korea.[1] It comprises numerous affiliated businesses,[1] most of them united under the Samsung brand, and is the largest South Korean chaebol (business conglomerate). As of 2024, Samsung has the world's fifth-highest brand value.[4]
+
+Samsung was founded by Lee Byung-chul in 1938 as a trading company. Over the next three decades, the group diversified into areas including food processing, textiles, insurance, securities, and retail. Samsung entered the electronics industry in the late 1960s and the construction and shipbuilding industries in the mid-1970s; these areas would drive its subsequent growth. Following Lee's death in 1987, Samsung was separated into five business groups – Samsung Group, Shinsegae Group, CJ Group, Hansol Group, and JoongAng Group.
+
+Samsung industrial affiliates include Samsung Electronics, Samsung Heavy Industries, Samsung Engineering and Samsung C&T Corporation. Other subsidiaries include Samsung Life Insurance and Cheil Worldwide. Notable Samsung industrial affiliates include Samsung Electronics (the world's largest information technology company, consumer electronics maker and chipmaker measured by 2017 revenues),[5][6] Samsung Heavy Industries (the world's second largest shipbuilder measured by 2010 revenues),[7] and Samsung Engineering and Samsung C&T Corporation (respectively the world's 13th and 36th largest construction companies).[8] Other notable subsidiaries include Samsung Life Insurance (the world's 14th largest life insurance company),[9] Samsung Everland (operator of Everland Resort, the oldest theme park in South Korea)[10] and Cheil Worldwide (the world's 15th largest advertising agency, as measured by 2012 revenues).[11][12]
+
+After Lee, the founder's death in 1987, Samsung Group was separated into five business groups – Samsung Group, Shinsegae Group, CJ Group, Hansol Group and the JoongAng Group.[26] Shinsegae (discount store, department store) was originally part of Samsung Group, separated in the 1990s from the Samsung Group along with CJ Group (Food/Chemicals/Entertainment/logistics), Hansol Group (Paper/Telecom), and the JoongAng Group (Media). Today these separated groups are independent and they are not part of or connected to the Samsung Group.[27] One Hansol Group representative said, "Only people ignorant of the laws governing the business world could believe something so absurd", adding, "When Hansol separated from the Samsung Group in 1991, it severed all payment guarantees and share-holding ties with Samsung affiliates." One Hansol Group source asserted, "Hansol, Shinsegae, and CJ have been under independent management since their respective separations from the Samsung Group". One Shinsegae department store executive director said, "Shinsegae has no payment guarantees associated with the Samsung Group".[27]
+
+In the 1980s, Samsung Electronics began to invest heavily in research and development, investments that were pivotal in pushing the company to the forefront of the global electronics industry. In 1982, it built a television assembly plant in Portugal; in 1984, a plant in New York; in 1985, a plant in Tokyo; in 1987, a facility in England; and another facility in Austin, Texas, in 1996. As of 2012, Samsung has invested more than US$13 billion in the Austin facility, which operates under the name Samsung Austin Semiconductor. This makes the Austin location the largest foreign investment in Texas and one of the largest single foreign investments in the United States.[28][29]
+
+In 1987, United States International Trade Commission found that the Samsung Group of South Korea unlawfully sold computer chips in the United States without licenses from the chip inventor, Texas Instruments Inc.[30]
+
+1990–2000
+Since 1990, Samsung has increasingly globalised its activities and electronics; in particular, its mobile phones and semiconductors have become its most important source of income. It was in this period that Samsung started to rise as an international corporation in the 1990s. Samsung's construction branch was awarded contracts to build one of the two Petronas Towers in Malaysia, Taipei 101 in Taiwan and the Burj Khalifa in United Arab Emirates.[31] In 1993, Lee Kun-hee sold off ten of Samsung Group's subsidiaries, downsized the company, and merged other operations to concentrate on three industries: electronics, engineering and chemicals. In 1996, the Samsung Group reacquired the Sungkyunkwan University foundation.[32]
+
+Samsung became the world's largest producer of memory chips in 1992 and is the world's second-largest chipmaker after Intel (see Worldwide Top 20 Semiconductor Market Share Ranking Year by Year).[33] In 1995, it created its first liquid-crystal display screen. Samsung grew to be the world's largest manufacturer of liquid-crystal display panels. Ten years later, Sony, which had not invested in large-size TFT-LCDs, contacted Samsung to cooperate, and, in 2006, S-LCD was established as a joint venture between Samsung and Sony in order to provide a stable supply of LCD panels for both manufacturers. S-LCD was owned by Samsung (50% plus one share) and Sony (50% minus one share) and operates its factories and facilities in Tanjung, South Korea. As of 26 December 2011, it was announced that Samsung had acquired the stake of Sony in this joint venture.[34]
+
+Compared to other major Korean companies, Samsung survived the 1997 Asian financial crisis relatively unharmed. However, Samsung Motor was sold to Renault at a significant loss. As of 2010, Renault Samsung is 80.1 per cent owned by Renault and 19.9 per cent owned by Samsung. Additionally, Samsung manufactured a range of aircraft from the 1980s to the 1990s. The company was founded in 1999 as Korea Aerospace Industries (KAI), the result of a merger between then three domestic major aerospace divisions of Samsung Aerospace, Daewoo Heavy Industries and Hyundai Space and Aircraft Company. However, Samsung still manufactures aircraft engines and gas turbines.[35]
+
+2000–present
+
+In 2000, Samsung R&D opened a development center in Warsaw, Poland.[36] Its work began with set-top-box technology before moving into digital TV and smartphones. The smartphone platform was developed with partners, officially launched with the original Samsung Solstice[37] line of devices and other derivatives in 2008, which was later developed into Samsung Galaxy line of devices including Notes, Edge and other products.
+
+In 2007, former Samsung chief lawyer Kim Yong Chul claimed that he was involved in bribing and fabricating evidence on behalf of the group's chairman, Lee Kun-hee, and the company. Kim said that Samsung lawyers trained executives to serve as scapegoats in a "fabricated scenario" to protect Lee, even though those executives were not involved. Kim also told the media that he was "sidelined" by Samsung after he refused to pay a $3.3 million bribe to the U.S. Federal District Court judge presiding over a case where two of their executives were found guilty on charges related to memory chip price-fixing. Kim revealed that the company had raised a large number of secret funds through bank accounts illegally opened under the names of up to 1,000 Samsung executives – under his own name, four accounts were opened to manage 5 billion won.[38]
+
+In 2010, Samsung[who?] announced a ten-year growth strategy centered around five businesses.[39] One of these businesses was to be focused on biopharmaceuticals, to which has committed ₩2.1 trillion.[40] In first quarter of 2012, Samsung Electronics became the world's largest mobile phone maker by unit sales, overtaking Nokia, which had been the market leader since 1998.[41][42]
+
+On 24 August 2012, nine American jurors ruled that Samsung Electronics had to pay Apple $1.05 billion in damages for violating six of its patents on smartphone technology. The award was still less than the $2.5 billion requested by Apple. The decision also ruled that Apple did not violate five Samsung patents cited in the case.[43] Samsung decried the decision saying that the move could harm innovation in the sector.[44] It also followed a South Korean ruling stating that both companies were guilty of infringing on each other's intellectual property.[45] In first trading after the ruling, Samsung shares on the KOSPI fell 7.7%, the largest fall since 24 October 2008, to 1,177,000 South Korean won.[46] Apple then sought to ban the sales of eight Samsung phones (Galaxy S 4G, Galaxy S2 AT&T, Galaxy S2 Skyrocket, Galaxy S2 T-Mobile, Galaxy S2 Epic 4G, Galaxy S Showcase, Droid Charge and Galaxy Prevail) in the United States, but this was denied by the court.[47][48]
+
+As of 2013, the Fair Trade Commission of Taiwan is investigating Samsung and its local Taiwanese advertising agency for false advertising. The case was commenced after the commission received complaints stating that the agency hired students to attack competitors of Samsung Electronics in online forums.[49] Samsung Taiwan made an announcement on its Facebook page in which it stated that it had not interfered with any evaluation report and had stopped online marketing campaigns that constituted posting or responding to content in online forums.[50]
+
+In 2015, Samsung has been granted more U.S. patents than any other company. The company received 7,679 utility patents through 11 December.[51]
+
+The Galaxy Note 7 smartphone went on sale on 19 August 2016.[52] However, in early September 2016, Samsung suspended sales of the phone and announced an informal recall. This occurred after some units of the phones had batteries with a defect that caused them to produce excessive heat, leading to fires and explosions. Samsung replaced the recalled units of the phones with a new version; however, it was later discovered that the new version of the Galaxy Note 7 also had the battery defect. Samsung recalled all Galaxy Note 7 smartphones worldwide on 10 October 2016, and permanently ended production of the phone the following day.[53][54][55]
+
+In 2018, they inaugurated the world's largest mobile manufacturing facility in Noida, India, in the presence of Indian Prime Minister Narendra Modi and South Korean President Moon Jae-in.[56][57]
+
+In 2023, Samsung announced its decision to reduce the production of memory chips. This action is on account of the company's projected 96% decline in quarterly operating profit - a 600 million won decline from the 14 trillion won in 2022. The said drop can be attributed to the weak demand after COVID and a slowing global economy. Despite this decision, the company's shares increased by more than 4%.[58] Samsung has been the top two applicant for PCT filled patents in 2022 and 2023 worldwide.[59]
+
+Influence in South Korea
+Samsung has a powerful influence on South Korea's economic development, politics, media and culture and has been a major driving force behind the "Miracle on the Han River".[60][61] Its affiliate companies produce around a fifth of South Korea's total exports.[62] Samsung's revenue was equal to 22.4% of South Korea's $1.67 trillion GDP in 2022.[63]
+
+"You can even say the Samsung chairman is more powerful than the President of South Korea. [South] Korean people have come to think of Samsung as invincible and above the law", said Woo Suk-hoon, host of a popular economics podcast in a Washington Post article headlined "In South Korea, the Republic of Samsung", published on 9 December 2012. Critics claimed that Samsung knocked out smaller businesses, limiting choices for South Korean consumers and sometimes colluded with fellow giants to fix prices while bullying those who investigate. Lee Jung-hee, a South Korean presidential candidate, said in a debate, "Samsung has the government in its hands. Samsung manages the legal world, the press, the academics and bureaucracy".[64]
+
+Apple (company)" redirects here. For other companies with the same name, see Apple (disambiguation) § Businesses and organisations.
+
+Apple Inc. is an American multinational corporation and technology company headquartered and incorporated in Cupertino, California, in Silicon Valley. It is best known for its consumer electronics, software, and services. Founded in 1976 as Apple Computer Company by Steve Jobs, Steve Wozniak and Ronald Wayne, the company was incorporated by Jobs and Wozniak as Apple Computer, Inc. the following year. It was renamed Apple Inc. in 2007 as the company had expanded its focus from computers to consumer electronics. Apple is the largest technology company by revenue, with US$383.29 billion in 2023.
+
+The company was founded to produce and market Wozniak's Apple I personal computer. Its second computer, the Apple II, became a best seller as one of the first mass-produced microcomputers. Apple introduced the Lisa in 1983 and the Macintosh in 1984, as some of the first computers to use a graphical user interface and a mouse. By 1985, internal company problems led to Jobs leaving to form NeXT, Inc., and Wozniak withdrawing to other ventures; John Sculley served as long-time CEO for over a decade. In the 1990s, Apple lost considerable market share in the personal computer industry to the lower-priced Wintel duopoly of the Microsoft Windows operating system on Intel-powered PC clones. In 1997, Apple was weeks away from bankruptcy. To resolve its failed operating system strategy, it bought NeXT, effectively bringing Jobs back to the company, who guided Apple back to profitability over the next decade with the introductions of the iMac, iPod, iPhone, and iPad devices to critical acclaim as well as the iTunes Store, launching the "Think different" advertising campaign, and opening the Apple Store retail chain. These moves elevated Apple to consistently be one of the world's most valuable brands since about 2010. Jobs resigned in 2011 for health reasons, and died two months later; he was succeeded as CEO by Tim Cook.
+
+Apple's current product lineup includes portable and home hardware such as the iPhone, iPad, Apple Watch, Mac, and Apple TV; operating systems such as iOS, iPadOS, and macOS; and various software and services including Apple Pay, iCloud, and multimedia streaming services like Apple Music and Apple TV+. Apple is one of the Big Five American information technology companies;[a] for the most part since 2011,[b] Apple has been the world's largest company by market capitalization, and, as of 2023, is the largest manufacturing company by revenue, the fourth-largest personal computer vendor by unit sales, the largest vendor of tablet computers, and the largest vendor of mobile phones in the world.
+
+Apple became the first publicly traded U.S. company to be valued at over $1 trillion in 2018, and, as of June 2024, is valued at just over $3.2 trillion. It has received criticism regarding its contractors' labor practices, its relationship with trade unions, its environmental practices, and its business ethics, including anti-competitive practices and materials sourcing. Nevertheless, the company has a large following and enjoys a high level of brand loyalty.
+
+History
+
+Apple Computer Company was founded on April 1, 1976, by Steve Jobs, Steve Wozniak, and Ronald Wayne as a partnership.[9][12] The company's first product is the Apple I, a computer designed and hand-built entirely by Wozniak.[13] To finance its creation, Jobs sold his Volkswagen Bus, and Wozniak sold his HP-65 calculator.[14]: 57  Neither received the full selling price but in total earned $1,300 (equivalent to $7,000 in 2023). Wozniak debuted the first prototype Apple I at the Homebrew Computer Club in July 1976.[15] The Apple I was sold as a motherboard with CPU, RAM, and basic textual-video chips—a base kit concept which was not yet marketed as a complete personal computer.[16] It was priced soon after debut for $666.66 (equivalent to $3,600 in 2023).[17][18]: 180  Wozniak later said he was unaware of the coincidental mark of the beast in the number 666, and that he came up with the price because he liked "repeating digits".[19]
+
+Apple Computer, Inc. was incorporated in Cupertino, California,[1] on January 3, 1977,[20][21] without Wayne, who had left and sold his share of the company back to Jobs and Wozniak for $800 only twelve days after having co-founded it.[22] Multimillionaire Mike Markkula provided essential business expertise and funding of $250,000 (equivalent to $1,257,000 in 2023) to Jobs and Wozniak during the incorporation of Apple.[23] During the first five years of operations, revenues grew exponentially, doubling about every four months. Between September 1977 and September 1980, yearly sales grew from $775,000 to US$118 million, an average annual growth rate of 533%.[24]
+
+The Apple II, also designed by Wozniak, was introduced on April 16, 1977, at the first West Coast Computer Faire.[25] It differs from its major rivals, the TRS-80 and Commodore PET, because of its character cell-based color graphics and open architecture. The Apple I and early Apple II models use ordinary audio cassette tapes as storage devices, which were superseded by the 5+1⁄4-inch floppy disk drive and interface called the Disk II in 1978.[26][27]
+
+The Apple II was chosen to be the desktop platform for the first killer application of the business world: VisiCalc, a spreadsheet program released in 1979.[26] VisiCalc created a business market for the Apple II and gave home users an additional reason to buy an Apple II: compatibility with the office,[26] but Apple II market share remained behind home computers made by competitors such as Atari, Commodore, and Tandy.[28][29]
+
+On December 12, 1980, Apple (ticker symbol "AAPL") went public selling 4.6 million shares at $22 per share ($.10 per share when adjusting for stock splits as of September 3, 2022),[21] generating over $100 million, which was more capital than any IPO since Ford Motor Company in 1956.[30] By the end of the day, around 300 millionaires were created, including Jobs and Wozniak, from a stock price of $29 per share[31] and a market cap of $1.778 billion.[30][31]
+
+In December 1979, Steve Jobs and Apple employees, including Jef Raskin, visited Xerox PARC, where they observed the Xerox Alto, featuring a graphical user interface (GUI). Apple subsequently negotiated access to PARC's technology, leading to Apple's option to buy shares at a preferential rate. This visit influenced Jobs to implement a GUI in Apple's products, starting with the Apple Lisa. Despite being pioneering as a mass-marketed GUI computer, the Lisa suffered from high costs and limited software options, leading to commercial failure.
+
+Jobs, angered by being pushed off the Lisa team, took over the company's Macintosh division. Wozniak and Raskin had envisioned the Macintosh as a low-cost computer with a text-based interface like the Apple II, but a plane crash in 1981 forced Wozniak to step back from the project. Jobs quickly redefined the Macintosh as a graphical system that would be cheaper than the Lisa, undercutting his former division.[32] Jobs was also hostile to the Apple II division, which at the time, generated most of the company's revenue.[33]
+
+In 1984, Apple launched the Macintosh, the first personal computer without a bundled programming language.[34] Its debut was signified by "1984", a US$1.5 million television advertisement directed by Ridley Scott that aired during the third quarter of Super Bowl XVIII on January 22, 1984.[35] This was hailed as a watershed event for Apple's success[36] and was called a "masterpiece" by CNN[37] and one of the greatest TV advertisements of all time by TV Guide.[38]
+
+The advertisement created great interest in Macintosh, and sales were initially good, but began to taper off dramatically after the first three months as reviews started to come in. Jobs had required 128 kilobytes of RAM, which limited its speed and software in favor of aspiring for a projected price point of $1,000 (equivalent to $2,900 in 2023). The Macintosh shipped for $2,495 (equivalent to $7,300 in 2023), a price panned by critics due to its slow performance.[39]: 195  In early 1985, this sales slump triggered a power struggle between Steve Jobs and CEO John Sculley, who had been hired away from Pepsi two years earlier by Jobs[40] saying, "Do you want to sell sugar water for the rest of your life or come with me and change the world?"[41] Sculley removed Jobs as the head of the Macintosh division, with unanimous support from the Apple board of directors.[42]
+
+The board of directors instructed Sculley to contain Jobs and his ability to launch expensive forays into untested products. Rather than submit to Sculley's direction, Jobs attempted to oust him from leadership.[43] Jean-Louis Gassée informed Sculley that Jobs had been attempting to organize a boardroom coup and called an emergency meeting at which Apple's executive staff sided with Sculley and stripped Jobs of all operational duties.[43] Jobs resigned from Apple in September 1985 and took several Apple employees with him to found NeXT.[44] Wozniak had also quit his active employment at Apple earlier in 1985 to pursue other ventures, expressing his frustration with Apple's treatment of the Apple II division and stating that the company had "been going in the wrong direction for the last five years".[33][45][46] Wozniak remained employed by Apple as a representative,[45] receiving a stipend estimated to be $120,000 per year.[18] Jobs and Wozniak remained Apple shareholders following their departures.[47]
+
+After the departures of Jobs and Wozniak in 1985, Sculley launched the Macintosh 512K that year with quadruple the RAM, and introduced the LaserWriter, the first reasonably priced PostScript laser printer. PageMaker, an early desktop publishing application taking advantage of the PostScript language, was also released by Aldus Corporation in July 1985.[48] It has been suggested that the combination of Macintosh, LaserWriter, and PageMaker was responsible for the creation of the desktop publishing market.[49]
+
+This dominant position in the desktop publishing market[50] allowed the company to focus on higher price points, the so-called "high-right policy" named for the position on a chart of price vs. profits. Newer models selling at higher price points offered higher profit margin, and appeared to have no effect on total sales as power users snapped up every increase in speed. Although some worried about pricing themselves out of the market, the high-right policy was in full force by the mid-1980s, due to Jean-Louis Gassée's slogan of "fifty-five or die", referring to the 55% profit margins of the Macintosh II.[51]: 79–80 
+
+This policy began to backfire late in the decade as desktop publishing programs appeared on IBM PC compatibles with some of the same functionality of the Macintosh at far lower price points. The company lost its dominant position in the desktop publishing market and estranged many of its original consumer customer base who could no longer afford Apple products. The Christmas season of 1989 was the first in the company's history to have declining sales, which led to a 20% drop in Apple's stock price.[51]: 117–129  During this period, the relationship between Sculley and Gassée deteriorated, leading Sculley to effectively demote Gassée in January 1990 by appointing Michael Spindler as the chief operating officer.[52] Gassée left the company later that year to set up a rival, Be Inc.[53]
+
+In the wake of the alliance, Apple opened up to the idea of allowing Motorola and other companies to build Macintosh clones. Over the next two years, 75 distinct Macintosh clone models were introduced. However, by 1996, Apple executives were worried that the clones were cannibalizing sales of its own high-end computers, where profit margins were highest.[66]
+
+In 1996, Spindler was replaced as CEO by Gil Amelio, who was hired for his reputation as a corporate rehabilitator. Amelio made deep changes, including extensive layoffs and cost-cutting.[67]
+
+This period was also marked by numerous failed attempts to modernize the Macintosh operating system (MacOS). The original Macintosh operating system (System 1) was not built for multitasking (running several applications at once). The company attempted to correct this by introducing cooperative multitasking in System 5, but still decided it needed a more modern approach.[68] This led to the Pink project in 1988, A/UX that same year, Copland in 1994, and evaluated the purchase of BeOS in 1996. Talks with Be stalled when the CEO, former Apple executive Jean-Louis Gassée, demanded $300 million in contrast to Apple's $125 million offer.[69] Only weeks away from bankruptcy,[70] Apple's board preferred NeXTSTEP and purchased NeXT in late 1996 for $400 million, retaining Steve Jobs.[71]
+
+1997–2007: Return to profitability
+The NeXT acquisition was finalized on February 9, 1997,[72] and the board brought Jobs back to Apple as an advisor. On July 9, 1997, Jobs staged a boardroom coup that resulted in Amelio's resignation after overseeing a three-year record-low stock price and crippling financial losses. The board named Jobs as interim CEO and he immediately reviewed the product lineup. Jobs canceled 70% of models, ending 3,000 jobs and paring to the core of its computer offerings.[73]
+
+The next month, in August 1997, Steve Jobs convinced Microsoft to make a $150 million investment in Apple and a commitment to continue developing Mac software.[74] This was seen as an "antitrust insurance policy" for Microsoft which had recently settled with the Department of Justice over anti-competitive practices in the United States v. Microsoft Corp. case.[75] Around then, Jobs donated Apple's internal library and archives to Stanford University, to focus more on the present and the future rather than the past.[76][77] He ended the Mac clone deals and in September 1997, purchased the largest clone maker, Power Computing.[78] On November 10, 1997, the Apple Store website launched, which was tied to a new build-to-order manufacturing model similar to PC manufacturer Dell's success.[79] The moves paid off for Jobs; at the end of his first year as CEO, the company had a $309 million profit.[73]
+
+On May 6, 1998, Apple introduced a new all-in-one computer reminiscent of the original Macintosh: the iMac. The iMac was a huge success, with 800,000 units sold in its first five months,[80] and ushered in major shifts in the industry by abandoning legacy technologies like the 3+1⁄2-inch diskette, being an early adopter of the USB connector, and coming pre-installed with Internet connectivity (the "i" in iMac)[81] via Ethernet and a dial-up modem. Its striking teardrop shape and translucent materials were designed by Jonathan Ive, who had been hired by Amelio, and who collaborated with Jobs for more than a decade to reshape Apple's product design.[82][83]
+
+A little more than a year later on July 21, 1999, Apple introduced the iBook consumer laptop. It culminated Jobs's strategy to produce only four products: refined versions of the Power Macintosh G3 desktop and PowerBook G3 laptop for professionals, and the iMac desktop and iBook laptop for consumers. Jobs said the small product line allowed for a greater focus on quality and innovation.[84]
+
+Around then, Apple also completed numerous acquisitions to create a portfolio of digital media production software for both professionals and consumers. Apple acquired Macromedia's Key Grip digital video editing software project which was launched as Final Cut Pro in April 1999.[85] Key Grip's development also led to Apple's release of the consumer video-editing product iMovie in October 1999.[86] Apple acquired the German company Astarte in April 2000, which had developed the DVD authoring software DVDirector, which Apple repackaged as the professional-oriented DVD Studio Pro, and reused its technology to create iDVD for the consumer market.[86] In 2000, Apple purchased the SoundJam MP audio player software from Casady & Greene. Apple renamed the program iTunes, and simplified the user interface and added CD burning.[87]
+
+In 2001, Apple changed course with three announcements. First, on March 24, 2001, Apple announced the release of a new modern operating system, Mac OS X. This was after numerous failed attempts in the early 1990s, and several years of development. Mac OS X is based on NeXTSTEP, OpenStep, and BSD Unix, to combine the stability, reliability, and security of Unix with the ease of use of an overhauled user interface. Second, in May 2001, the first two Apple Store retail locations opened in Virginia and California, offering an improved presentation of the company's products.[88][89][90] At the time, many speculated that the stores would fail, but they became highly successful, and the first of more than 500 stores around the world.[91][92] Third, on October 23, 2001, the iPod portable digital audio player debuted. The product was first sold on November 10, 2001, and was extremely successful, with over 100 million units sold within six years.[93]In June 2010, Apple released the iPhone 4,[121] which introduced video calling using FaceTime, multitasking, and a new design with an exposed stainless steel frame as the phone's antenna system. Later that year, Apple again refreshed the iPod line by introducing a multi-touch iPod Nano, an iPod Touch with FaceTime, and an iPod Shuffle that brought back the clickwheel buttons of earlier generations.[122] It also introduced the smaller, cheaper second-generation Apple TV which allowed the rental of movies and shows.[123]
+
+On January 17, 2011, Jobs announced in an internal Apple memo that he would take another medical leave of absence for an indefinite period to allow him to focus on his health. Chief operating officer Tim Cook assumed Jobs's day-to-day operations at Apple, although Jobs would still remain "involved in major strategic decisions".[124] Apple became the most valuable consumer-facing brand in the world.[125] In June 2011, Jobs surprisingly took the stage and unveiled iCloud, an online storage and syncing service for music, photos, files, and software which replaced MobileMe, Apple's previous attempt at content syncing.[126] This would be the last product launch Jobs would attend before his death.
+
+On August 24, 2011, Jobs resigned his position as CEO of Apple.[127] He was replaced by Cook and Jobs became Apple's chairman. Apple did not have a chairman at the time[128] and instead had two co-lead directors—Andrea Jung and Arthur D. Levinson[129]—who continued with those titles until Levinson replaced Jobs as chairman of the board in November after Jobs's death.[130]
+
+2011–present: Post-Jobs era, Tim Cook
+On October 5, 2011, Steve Jobs died, marking the end of an era for Apple.[131] The next major product announcement by Apple was on January 19, 2012, when Apple's Phil Schiller introduced iBooks Textbooks for iOS and iBook Author for Mac OS X in New York City.[132] Jobs stated in the biography Steve Jobs that he wanted to reinvent the textbook industry and education.[133]
+
+From 2011 to 2012, Apple released the iPhone 4s[134] and iPhone 5,[135] which featured improved cameras, an intelligent software assistant named Siri, and cloud-synced data with iCloud; the third- and fourth-generation iPads, which featured Retina displays;[136][137] and the iPad Mini, which featured a 7.9-inch screen in contrast to the iPad's 9.7-inch screen.[138] These launches were successful, with the iPhone 5 (released September 21, 2012) becoming Apple's biggest iPhone launch with over two million pre-orders[139] and sales of three million iPads in three days following the launch of the iPad Mini and fourth-generation iPad (released November 3, 2012).[140] Apple also released a third-generation 13-inch MacBook Pro with a Retina display and new iMac and Mac Mini computers.[137][138][141]
+
+On August 20, 2012, Apple's rising stock price increased the company's market capitalization to a then-record $624 billion. This beat the non-inflation-adjusted record for market capitalization previously set by Microsoft in 1999.[142] On August 24, 2012, a US jury ruled that Samsung should pay Apple $1.05 billion (£665m) in damages in an intellectual property lawsuit.[143] Samsung appealed the damages award, which was reduced by $450 million[144] and further granted Samsung's request for a new trial.[144] On November 10, 2012, Apple confirmed a global settlement that dismissed all existing lawsuits between Apple and HTC up to that date, in favor of a ten-year license agreement for current and future patents between the two companies.[145] It is predicted that Apple will make US$280 million per year from this deal with HTC.[146]
+
+In May 2014, Apple confirmed its intent to acquire Dr. Dre and Jimmy Iovine's audio company Beats Electronics—producer of the "Beats by Dr. Dre" line of headphones and speaker products, and operator of the music streaming service Beats Music—for US$3 billion, and to sell their products through Apple's retail outlets and resellers. Iovine believed that Beats had always "belonged" with Apple, as the company modeled itself after Apple's "unmatched ability to marry culture and technology". The acquisition was the largest purchase in Apple's history.[147]
+
+In June 2017, Apple announced the HomePod, its smart speaker aimed to compete against Sonos, Google Home, and Amazon Echo.[153] Toward the end of the year, TechCrunch reported that Apple was acquiring Shazam, a company that introduced its products at WWDC and specializing in music, TV, film and advertising recognition.[154] The acquisition was confirmed a few days later, reportedly costing Apple US$400 million, with media reports that the purchase looked like a move to acquire data and tools bolstering the Apple Music streaming service.[155] The purchase was approved by the European Union in September 2018.[156]
+
+Also in June 2017, Apple appointed Jamie Erlicht and Zack Van Amburg to head the newly formed worldwide video unit. In November 2017, Apple announced it was branching out into original scripted programming: a drama series starring Jennifer Aniston and Reese Witherspoon, and a reboot of the anthology series Amazing Stories with Steven Spielberg.[157] In June 2018, Apple signed the Writers Guild of America's minimum basic agreement and Oprah Winfrey to a multi-year content partnership.[158] Additional partnerships for original series include Sesame Workshop and DHX Media and its subsidiary Peanuts Worldwide, and a partnership with A24 to create original films.[159]
+
+During the Apple Special Event in September 2017, the AirPower wireless charger was announced alongside the iPhone X, iPhone 8, and Watch Series 3. The AirPower was intended to wirelessly charge multiple devices, simultaneously. Though initially set to release in early 2018, the AirPower would be canceled in March 2019, marking the first cancellation of a device under Cook's leadership.[160] On August 19, 2020, Apple's share price briefly topped $467.77, making it the first US company with a market capitalization of US$2 trillion.[161]
+
+Fashion is a term used interchangeably to describe the creation of clothing, footwear, accessories, cosmetics, and jewellery of different cultural aesthetics and their mix and match into outfits that depict distinctive ways of dressing (styles and trends) as signifiers of social status, self-expression, and group belonging. As a multifaceted term, fashion describes an industry, styles, aesthetics, and trends.
+
+The term 'fashion' originates from the Latin word 'Facere,' which means 'to make,' and describes the manufacturing, mixing, and wearing of outfits adorned with specific cultural aesthetics, patterns, motifs, shapes, and cuts, allowing people to showcase their group belonging, values, meanings, beliefs, and ways of life. Given the rise in mass production of commodities and clothing at lower prices and global reach, reducing fashion's environmental impact and improving sustainability has become an urgent issue among politicians, brands, and consumers.[1][2]
+
+The French word mode, meaning "fashion", dates as far back as 1482, while the English word denoting something "in style" dates only to the 16th century. Other words exist related to concepts of style and appeal that precede mode. In the 12th and 13th century Old French the concept of elegance begins to appear in the context of aristocratic preferences to enhance beauty and display refinement, and cointerie, the idea of making oneself more attractive to others by style or artifice in grooming and dress, appears in a 13th-century poem by Guillaume de Lorris advising men that "handsome clothes and handsome accessories improve a man a great deal".[3]
+
+Fashion scholar Susan B. Kaiser states that everyone is "forced to appear", unmediated before others.[4] Everyone is evaluated by their attire, and evaluation includes the consideration of colors, materials, silhouette, and how garments appear on the body. Garments identical in style and material also appear different depending on the wearer's body shape, or whether the garment has been washed, folded, mended, or is new.
+
+Fashion is defined in a number of different ways, and its application can be sometimes unclear. Though the term fashion connotes difference, as in "the new fashions of the season", it can also connote sameness, for example in reference to "the fashions of the 1960s", implying a general uniformity. Fashion can signify the latest trends, but may often reference fashions of a previous era, leading to the reappearance of fashions from a different time period. While what is fashionable can be defined by a relatively insular, esteemed and often rich aesthetic elite who make a look exclusive, such as fashion houses and haute couturiers, this 'look' is often designed by pulling references from subcultures and social groups who are not considered elite, and are thus excluded from making the distinction of what is fashion themselves.
+
+Whereas a trend often connotes a peculiar aesthetic expression, often lasting shorter than a season and being identifiable by visual extremes, fashion is a distinctive and industry-supported expression traditionally tied to the fashion season and collections.[5] Style is an expression that lasts over many seasons and is often connected to cultural movements and social markers, symbols, class, and culture (such as Baroque and Rococo). According to sociologist Pierre Bourdieu, fashion connotes "the latest difference."[6]
+
+Even though the terms fashion, clothing and costume are often used together, fashion differs from both. Clothing describes the material and the technical garment, devoid of any social meaning or connections; costume has come to mean fancy dress or masquerade wear. Fashion, by contrast, describes the social and temporal system that influences and "activates" dress as a social signifier in a certain time and context. Philosopher Giorgio Agamben connects fashion to the qualitative Ancient Greek concept of kairos, meaning "the right, critical, or opportune moment", and clothing to the quantitative concept of chronos, the personification of chronological or sequential time.[7]
+
+While some exclusive brands may claim the label haute couture, in France, the term is technically limited to members of the Chambre Syndicale de la Haute Couture[8] in Paris.[5] Haute couture is more aspirational; inspired by art and culture, and in most cases, reserved for the economic elite. However, New York's fashion calendar hosts Couture Fashion Week, which strives for a more equitable and inclusive mission.[9]
+
+Fashion is also a source of art, allowing people to display their unique tastes, sensibilities, and styles.[10] Different fashion designers are influenced by outside stimuli and reflect this inspiration in their work. For example, Gucci's 'stained green' jeans[11] may look like a grass stain, but to others, they display purity, freshness, and summer.[12]
+
+Fashion is unique, self-fulfilling and may be a key part of someone's identity. Similarly to art, the aims of a person's choices in fashion are not necessarily to be liked by everyone, but instead to be an expression of personal taste.[10] A person's personal style functions as a "societal formation always combining two opposite principles. It is a socially acceptable and secure way to distinguish oneself from others and, at the same time, it satisfies the individual's need for social adaptation and imitation."[13] While philosopher Immanuel Kant believed that fashion "has nothing to do with genuine judgements of taste", and was instead "a case of unreflected and 'blind' imitation",[13] sociologist Georg Simmel[14] thought of fashion as something that "helped overcome the distance between an individual and his society".[13] American sociologist Diana Crane also mentioned in her book that fashion is closely intertwined with personal and group identity, serving as a means of expressing cultural, social, and political affiliations.[15]
+
+Changes in clothing often took place at times of economic or social change, as occurred in ancient Rome and the medieval Caliphate, followed by a long period without significant changes. In eighth-century Moorish Spain, the musician Ziryab introduced to Córdoba[16][unreliable source][17] sophisticated clothing styles based on seasonal and daily fashions from his native Baghdad, modified by his inspiration. Similar changes in fashion occurred in the 11th century in the Middle East following the arrival of the Turks, who introduced clothing styles from Central Asia and the Far East.[18]
+
+Alleged Western distinctiveness
+Early Western travellers who visited India, Persia, Turkey, or China, would frequently remark on the absence of change in fashion in those countries. In 1609, the secretary of the Japanese shōgun bragged inaccurately to a Spanish visitor that Japanese clothing had not changed in over a thousand years.[19]: 312–313  However, these conceptions of non-Western clothing undergoing little, if any, evolution are generally held to be untrue; for instance, there is considerable evidence in Ming China of rapidly changing fashions in Chinese clothing.[20] In imperial China, clothing were not only an embodiment of freedom and comfort or used to cover the body or protect against the cold or used for decorative purposes; it was also regulated by strong sumptuary laws which was based on strict social hierarchy system and the ritual system of the Chinese society.[21]: 14–15  It was expected for people to be dressed accordingly to their gender, social status and occupation; the Chinese clothing system had cleared evolution and varied in appearance in each period of history.[21]: 14–15  However, ancient Chinese fashion, like in other cultures, was an indicator of the socioeconomic conditions of its population; for Confucian scholars, however, changing fashion was often associated with social disorder which was brought by rapid commercialization.[22]: 204  Clothing which experienced fast changing fashion in ancient China was recorded in ancient Chinese texts, where it was sometimes referred as shiyang, "contemporary-styles", and was associated with the concept of fuyao, "outrageous dress",[23]: 44  which typically holds a negative connotation. Similar changes in clothing can be seen in Japanese clothing between the Genroku period and the later centuries of the Edo period (1603–1867), during which a time clothing trends switched from flashy and expensive displays of wealth to subdued and subverted ones.
+
+The myth on the lack of fashion in what was considered the Orient was related to Western Imperialism also often accompanied Orientalism, and European imperialism was especially at its highest in the 19th century.[24]: 10  In the 19th century time, Europeans described China in binary opposition to Europe, describing China as "lacking in fashion" among many other things, while Europeans deliberately placed themselves in a superior position when they would compare themselves to the Chinese[24]: 10  as well as to other countries in Asia:[24]: 166 
+
+Latent orientalism is an unconscious, untouchable certainty about what the Orient is, static and unanimous, separate, eccentric, backward, silently different, sensual, and passive. It has a tendency towards despotism and away from progress. [...] Its progress and value are judged in comparison to the West, so it is the Other. Many rigorous scholars [...] saw the Orient as a locale requiring Western attention, reconstruction, even redemption.
+
+— Laura Fantone quoted Said (1979), Local Invisibility, Postcolonial Feminisms Asian American Contemporary Artists in California, page 166
+Similar ideas were also applied to other countries in the East Asia, in India, and Middle East, where the perceived lack of fashion were associated with offensive remarks on the Asian social and political systems:[25]: 187 
+
+I confess that the unchanging fashions of the Turks and other Eastern peoples do not attract me. It seems that their fashions tend to preserve their stupid despotism.
+
+— Jean Baptiste Say (1829)
+Africa
+Additionally, there is a long history of fashion in West Africa.[26] Cloth was used as a form of currency in trade with the Portuguese and Dutch as early as the 16th century,[26] and locally produced cloth and cheaper European imports were assembled into new styles to accommodate the growing elite class of West Africans and resident gold and slave traders.[26] There was an exceptionally strong tradition of weaving in the Oyo Empire, and the areas inhabited by the Igbo people.[26]
+
+India is a country with an ancient clothing design tradition, yet an emerging fashion industry. Though a handful of designers existed prior to the 1980s, the late 1980s and the 1990s saw a spurt of growth. This was the result of increasing exposure to global fashion and the economic boom the economic liberalization of the Indian economy in 1990. The following decades firmly established fashion as an industry across India.
+
+The history of clothing in India dates back to ancient times, yet fashion is a new industry, as it was the traditional Indian clothing with regional variations, be it the sari, ghagra choli or dhoti, that remained popular until the early decades of post-independence India.[1] A common form of Indian fashion originates from Western culture. Fashion includes a series of sequins and gold thread to attract customers and apply a statement to the Indian fashion community. A famous Indian fashion trademark is embroidery, an art of sewing distinct thread patterns. A way to include the traditional look and create a new fashion statement includes embroidery applied to different dresses, skirts, shirts, and pants to reflect the western culture influence as well as include the Indian tradition.
+
+As part of larger revival movement in the Indian textile industry, Ritu Kumar, a Kolkata-based designer and textile print-expert started working on reviving the traditional hand block printing techniques of Bengal, and making it a part of the fashion industry, established "ethnic chic".[2] She opened her first boutique in Delhi in 1966. In 1973, she first showcased the Zardozi embroidery in her garments, which had its origins in the royal costumes dating back to the Mughal era. This led to the revival of this lost art. In time embroidery became a prominent feature of Indian wedding attire, and also one of the country's biggest fashion exports.[3][4] This was a period of revival, where various organisations, NGOs and individuals were involved in reviving traditional Indian techniques, in weaving, printing, dyeing or embroidery, including ikat, patola (double-ikat), bandhani (tie-dye) and shisha (mirror embroidery).[3]
+
+An early trendsetter in fashion was Bollywood (Hindi cinema), where costume designers like Bhanu Athaiya started experimenting with film fashion in the 1960s. Athaiya started working on period costumes in Sahib Bibi Aur Ghulam (1962) and Amrapali (1966), though she went on to introduce varied trends through Teesri Manzil (1966), Chalte Chalte (1976), Karz (1980) and Chandni (1989). These were soon followed by the mass market. Also situations and themes in Indian cinema became westernised, making way for the display of diverse fashion. Over the years, popular Bollywood trends have been the Madhubala's Anarkali-look with kurtas and churidars in Mughal-e-Azam (1960), purple embroidered sari worn by Madhuri Dixit in Hum Aapke Hain Koun...! (1994), to Rani Mukherji's short kurti-suits in Bunty Aur Babli (2005), and chiffon sarees and trench coats in Kabhi Alvida Naa Kehna (2006), Veer Zaara suits and blouses from Parineeta. This comes besides various fashion interpretations of the sari in films like Chandni (1989) with Sridevi, Main Hoon Na (2004) with Sushmita Sen and Dostana (2008) with Priyanka Chopra, which became fashion trends.[5][6]
+
+However, in recent decades, with increasing exposure to the West, its influence is no longer as strong as in previous decades.[5] By the 2000s, with rise in the Indian diaspora around the world and the non-resident Indians, Bollywood continues to exert far greater influence on the fashion sensibilities amongst Indians around the world.[7][8]
+
+1980s-1990s and fashion boom
+By the early 1980s, the first generation of Indian fashion designers started cropping up, including Satya Paul. However, it was Rohit Khosla (1958–1994) who became a pioneer in the fashion industry, when he co-founded Ensemble" in 1987, with Tarun Tahiliani, Abu Jani-Sandeep Khosla and others. Though the "Anarkali-style" has been around ever since, it was first popularised after Mughal-e-Azam (1969). It was Abu Jani-Sandeep Khosla, who, inspired by costumes of Mughal courtesans and Meena Kumari's costumes in Pakeezah (1975), introduced the floor-length Anarkali-style of churidaar-kurta in 1988, which soon became the Indian version of the ball gown.[4]
+
+In 1986, the Ministry of Textiles, Government of India opened the National Institute of Fashion Technology (NIFT) in Delhi with the help of the Fashion Institute of Technology, New York. It played an important role in bringing in locally trained fashion designers.[9] By 2010, it had developed 15 branches across India, and smaller private fashion institutions had also developed.[10] Also in 1987, Tarun Tahiliani and his wife Shailja 'Sal' Tahiliani, founded Ensemble, India's first multi-designer boutique in Mumbai.[11][12]
+
+In 1990, economic liberalisation of the Indian economy took place, which also propelled the fashion industry.[3] In the following decade, the fashion industry experienced a boom, both in terms of volume and trends. Designer Suneet Varma, inspired by his corsetry- raining in France, introduced an indo-western, metal breast plate, followed by the "corset blouse" in 1992, made with satin, polyester taffeta or stretch lace. It was designed to replace the traditional choli, or Indian blouse worn with a sari.[4] In its early years, the 1980s, Indian design largely focused on haute couture; however, in the next decade, India saw a growth in the domestic retail industry, as well as an influx of outsourced garment business from the western countries. This meant better quality and larger manufacturing facilities available locally. Together, these reasons spurred many Indian designers to start their prêt-à-porter (ready-to-wear) lines.[13]
+
+"God-printed T-shirts" were introduced by Manish Arora in 1997, along with Indian kitsch and street art in saturated colors on fashionwear.[4] Another important reinvention was made in 1998 by Monisha Jaisingh, who shortened the traditional kurta to develop the Kurti, which became popular worldwide as the "Indian embroidered tunic".[4] Also in the same year, the Fashion Design Council of India was established, which later started the India Fashion Week in Delhi, to promote Indian designers and manufacturers.[10] In 2000, another Bollywood costume designer, Manish Malhotra, became an important influence on Indian fashion. Having designed the trendy looks for actresses Urmila Matondkar in Rangeela (1995) and Karisma Kapoor in Raja Hindustani (1996), he introduced the "cocktail sari" in 2000. Using pastel colors, and fabrics like chiffon, satin or net, it revived the traditional sari in a modern avatar. He was in turn inspired by the popular Bollywood saris of the 1960s and the chiffon saris worn by the actress in Yash Chopra films, like Chandni (1989).[4] This also started another era of Bollywood fashion influence and its collaboration with leading designers, besides leading actors and actresses occasionally walking the ramp for some designers.[6]
+
+By 2009, the Indian fashion industry, despite the ongoing recession, was worth ₹2.9 billion (US$35 million).[14] Also in the same year, Manish Arora, known for his quirky-kitsch, became the first Indian designer to participate in Paris Fashion Week.[14]
+
+2010 onwards – change in Indian Menswear fashion
+Lakme Fashion Week's Gen Next programme has been helpful in giving a launch platforms for some of the newest and avant garde designers in this country. Fashion designers such as Antar Agni, Mr. Ajay Kumar, Bloni are some of the newest designers on the block. Mr. Ajay Kumar is one such designer who has revolutionised the way Indian men perceive fashion - introducing the signature print-on-print look for men.[15] He has brought colourful prints for men and with the likes of celebrities such as Ranveer Singh, Shahid Kapoor popularising such looks, men in India have become more experimental and flamboyant in their outlook. Antar Agni has introduced draped menswear which is quite popular amongst the new age men who want to experiment with silhouettes.[16]
+
+Cities
+Delhi, Kolkata, Mumbai and Chennai are important centers of fashion designing and manufactured in India, followed by Bangalore, Hyderabad, Pune and other large cities. Mumbai and Bangalore are the home of some of the top fashion rental services in India.
+
+Fashion weeks
+Vivz World Fashion Week (Pune)
+India Fashion Week (Delhi)[17]
+Lakme Fashion Week (Mumbai)
+Indian Federation for Fashion Development's India Runway Week[18] (Delhi)
+Fashion exhibitions
+Hi Life Fashion Exhibitions
+Noted fashion designers
+List of fashion designers in India
+In popular culture
+The Indian fashion industry was the theme of the 2008 Hindi film, Fashion, written and directed by Madhur Bhandarkar, starring Priyanka Chopra and Kangana Ranaut as the leads.[19]
+
+Academic research on Indian fashion
+The Indian fashion industry as such remains academically understudied, even though there is research available on textiles, craft traditions and history of Indian dress. The only anthropological study of the Indian fashion industry, based on ethnographic research in Northern India, specifically New Delhi and Lucknow and dealing with both the worlds of luxury fashion designers and the worlds of craftspeople and workers in the industry, is Tereza Kuldova's work Luxury Indian Fashion: A Social Critique, published by Bloomsbury in 2016.[20]
+
+See also
+Clothing in India
+History of fashion design
+Indo-Western clothing
+Paambadam
+1950s in Indian fashion
+1960s in Indian fashion
+1970s in Indian fashion
+1980s in Indian fashion
+1990s in Indian fashion
+2000s in Indian fashion
+2010s in Indian fashion
+
+“It’s not what you sell that matters as much as how you sell it!” – Brian Halligan, CEO and co-founder, HubSpot
+“Many companies have forgotten they sell to actual people. Humans care about the entire experience, not just marketing, sales, or service.” – Dharmesh Shah, CTO and co-founder, HubSpot
+“Ignoring online marketing is like opening a business but not telling anyone.” – KB Marketing Agency
+“Marketing’s job is never done. It’s about perpetual motion. We must continue to innovate every day.” – Beth Comstock, former CMO and vice chair, GE
+“The aim of marketing is to know and understand the customer so well the product or service fits him and sells itself.” – Peter Drucker, management consultant, educator, and author
+“Integrated marketing offers opportunities to break through to consumers in new markets.” – Betsy Holden, senior advisor, McKinsey and Co.
+“The best marketing doesn’t feel like marketing.” – Tom Fishburne, founder and CEO, Marketoonist
+“To continue winning the internet marketing game, your content has to be more than just brilliant. It has to give the people consuming it the ability to become a better version of themselves.” – Michelle StinsonRoss, MD of marketing operations, Apogee Results
+“Business has only two functions — marketing and innovation.” – Milan Kundera, writer and playwright
+“Build something 100 people love, not something 1 million people kind of like.” – Brian Chesky, co-founder and CEO, Airbnb
+1. “It’s not what you sell that matters as much as how you sell it!” – Brian Halligan, CEO and co-founder, HubSpot
+In today’s competitive landscape, customers have their pick when it comes to purchasing a product. The difference you can make is how you sell your product to stand out from competitors.
+
+2. “Many companies have forgotten they sell to actual people. Humans care about the entire experience, not just marketing, sales, or service.” – Dharmesh Shah, CTO and co-founder, HubSpot
+Successful businesses treat their prospects and customers as humans, not just numbers. Keeping the humanity of your customers foremost in mind will transform the way you do business.
+
+3. “Ignoring online marketing is like opening a business but not telling anyone.” – KB Marketing Agency
+In the Internet Age, it is vital to your business’s success to have a presence online. Online marketing is the name of the game.
+
+4. “Marketing’s job is never done. It’s about perpetual motion. We must continue to innovate every day.” – Beth Comstock, former CMO and vice chair, GE
+It may be tempting to sit back and relax after launching a long-worked-on campaign, but marketers always need to be a step ahead of their customers, preparing the next campaign or piece of content.
+
+5. “The aim of marketing is to know and understand the customer so well the product or service fits him and sells itself.” – Peter Drucker, management consultant, educator, and author
+This is the heart of inbound marketing: selling your product or service to those who are already looking for it — whether they know it or not.
+
+6. “Integrated marketing offers opportunities to break through to consumers in new markets.” – Betsy Holden, senior advisor, McKinsey and Co.
+Be on the lookout for integrated marketing opportunities so you can expand brand awareness to new, relevant audiences.
+
+7. “The best marketing doesn’t feel like marketing.” – Tom Fishburne, founder and CEO, Marketoonist
+Everyone is tired of being sold to. We are constantly bombarded by ads, so we tend to ignore them. Instead of fighting for customers’ attention, create content that captures their interest and offers them real value.
+
+8. “To continue winning the internet marketing game, your content has to be more than just brilliant. It has to give the people consuming it the ability to become a better version of themselves.” – Michelle StinsonRoss, MD of marketing operations, Apogee Results
+People want to know what’s in it for them. What value does your product or service offer them that it’s worth their time, attention, and money?
+
+9. “Business has only two functions — marketing and innovation.” – Milan Kundera, writer and playwright
+Innovation creates new ideas while marketing sells them. Master both to achieve all your goals.
+
+10. “Build something 100 people love, not something 1 million people kind of like.” – Brian Chesky, co-founder and CEO, Airbnb
+The quality of your customers is more important than the quantity. Those who love what you offer will be far more loyal and likely to spread positive reviews than those who are only mildly pleased by your offering.
+
+Digital Marketing Quotes
+The world of digital marketing is ever-changing — the following quotes will help you think about ways to ensure your digital strategy remains relevant and impactful for your target audience.
+
+Digital marketing quotes infographic
+
+11. “Businesses get blinded by the allure of a large subscription list, but unengaged subscribers aren’t just not interested in what you’re sending, they’re actually harming your deliverability.” – Meghan Keaney Anderson, vice president of marketing, HubSpot
+It’s often tempting to hang onto every hard-won subscriber you’ve ever gained. However, it’s essential to regularly clean your list because email service providers (ESPs) use engagement signals to decide if your emails go to the inbox or spam folder. Focusing on quantity over quality can hurt your email performance in the long run. Instead, prioritize engagement.
+
+12. “Marketers need to build digital relationships and reputation before closing a sale.” – Chris Brogan, president, Chris Brogan Media
+In the digital age, customers have access to endless choices and information. As a marketer, you must prioritize creating digital touchpoints for potential buyers to know, like, and trust your brand. Differentiating your brand and building trust is crucial in today’s oversaturated market.
+
+13. “Less is more. Keeping it simple takes time and effort.” – Jeff Bullas, CEO, Jeffbullas.com Pty Ltd.
+It can be tempting to jump on every platform and follow every trend, but spreading yourself too thin is counterproductive. Instead, prioritize mastering a few key strategies or channels before expanding further.
+
+14. “Instead of one-way interruption, web marketing is about delivering useful content at just the right moment that a buyer needs it.” – David Meerman Scott, keynote speaker and author
+Good marketing should never feel like an interruption. Instead, it should enhance your audience’s experience at each touchpoint. Timing and relevance is the name of the game.
+
+15. “Content, in all its forms, is the single most critical element of any marketing campaign.” – Rebecca Lieb, founding partner and analyst, Kaleido Insights
+Content, whether articles, videos, or social media posts, forms the foundation of every digital marketing campaign. No matter how great your strategy, channels, or timing, they can never make up for poor content quality.
+
+16. “Inspiration is the most important part of our digital strategy.” – Paull Young, charitable giving lead, Facebook
+Let your marketing be driven by and inspire creativity. Aim for original ideas and innovative approaches that resonate with your audience.
+
+17. “Digital marketing is not the art of selling a product. It is the art of making people buy the product that you sell.” – Hecate Strategy
+As a marketer, your job is never to “push a product onto an unwilling consumer.” Instead, it’s about understanding your audience thoroughly enough to craft messages, experiences, and campaigns that seamlessly connect their needs/pain points to your product.
+
+18. “Don’t build links. Build relationships.” – Rand Fishkin, founder, SparkToro
+Link building can sometimes feel impersonal and spammy. Instead, build genuine connections with influencers, partners, and customers. Nurturing these relationships cultivates a strong network and naturally increases opportunities for more “organic” link placements.
+
+19. “Discoverability equals sales in the digital world.” – Dev Chandan, founder, Dev Chandan
+This one is self-explanatory. Potential customers can’t buy from you unless they know you exist.
+
+20. “Before you create any more ‘great content,’ figure out how you are going to market it first.” – Joe Pulizzi and Newt Barrett, co-authors
+Creating high-quality content is only half the battle. A solid distribution strategy ensures your content reaches the right people at the right time. No matter how “great” your content is, it has no value if your audience never sees it.
+
+
+Famous Marketing Quotes
+“Instead of interrupting, work on attracting.” – Dharmesh Shah, CTO and co-founder, HubSpot
+“Just because you are the loudest, doesn’t make you right.” – Brian Halligan, CEO and co-founder, HubSpot
+“Content is king.” – Bill Gates, co-founder, Microsoft
+“Master the topic, the message, and the delivery.” – Steve Jobs, co-founder, Apple
+“Either write something worth reading or do something worth writing about.” – Benjamin Franklin, a founding father of the United States
+“It’s important to remember your competitor is only one mouse click away.” – Douglas Warner III, former CEO, J.P. Morgan Chase and Co.
+“Do what you do so well that they will want to see it again and bring their friends.” – Walt Disney, co-founder of The Walt Disney Company
+“Brand is just a perception, and perception will match reality over time.” – Elon Musk, co-founder and CEO, SpaceX
+“I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.” – Maya Angelou, Civil Rights activist and poet
+“Marketing is really just about sharing your passion.” – Michael Hyatt, NY Times best-selling author
+Sometimes, you might want to lean on the words and experiences that a successful person you admire once said or described. Here are some famous quotes you can apply to your business’s marketing efforts to help you do just that.
+
+
+300+ Famous Quotes & Image Templates
+Hundreds of quotes + free image templates to display them.
+
+Famous Quotes
+Movie Quotes
+Motivational Quotes
+Quote Display Images
+Get Your Free Kit
+Learn more
+21. “Instead of interrupting, work on attracting.” – Dharmesh Shah, CTO and co-founder, HubSpot
+Honey attracts flies better than vinegar. Don’t push your way into a prospect’s life; they’ll find the interruption annoying and so be more likely to write you off. If, on the other hand, you attract customers, they’re more likely to stick around because they are there of their own accord.
+
+22. “Just because you are the loudest, doesn’t make you right.” – Brian Halligan, CEO and co-founder, HubSpot
+Focus on the clarity and truth of your message, not the noise you can make.
+
+23. “Content is king.” – Bill Gates, co-founder, Microsoft
+Content that educates and helps prospects solve their problems is more likely to lead to a purchase and long-term customer satisfaction.
+
+24. “Master the topic, the message, and the delivery.” – Steve Jobs, co-founder, Apple
+You will only convince others if you are convinced and knowledgeable yourself. Be sure you know what you’re selling, why you’re selling it, and how it can help your prospects.
+
+25. “Either write something worth reading or do something worth writing about.” – Benjamin Franklin, a founding father of the United States
+This quote is pretty self-explanatory, but it’s revolutionary when you apply it to marketing.
+
+26. “It’s important to remember your competitor is only one mouse click away.” – Douglas Warner III, former CEO, J.P. Morgan Chase and Co.
+In this day and age, it’s easier than ever for consumers to choose the provider they like best from the comfort of their sofa. One bad experience can send them fleeing to your competitors. Be sure to give a reason for your customers to stick around.
+
+27. “Do what you do so well that they will want to see it again and bring their friends.” – Walt Disney, co-founder of The Walt Disney Company
+The magic of a good product or service, along with an excellent customer experience, will keep customers around and lead them to tell others about your business.
+
+28. “Brand is just a perception, and perception will match reality over time.” – Elon Musk, co-founder and CEO, SpaceX
+Don’t underestimate the power of brand perception. Starting with a clear, strong brand vision can help you guide brand perception, but you have to stay vigilant about how others perceive your business.
+
+29. “I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.” – Maya Angelou, Civil Rights activist and poet
+Focus on making people feel good about your company and your offer to create lasting positive impressions.
+
+30. “Marketing is really just about sharing your passion.” – Michael Hyatt, NY Times best-selling author
+We can all smell marketing that isn’t sincere. The best thing is to be selling something you believe in and are passionate about. People will buy your authenticity.
+
+Content Marketing Quotes
+The following quotes provide new ways for you and your team members to approach creating, publishing, and distributing your content and ideas — no matter the products or services your company produces and sells.
+
+Check out our Content Marketing Strategy: A Comprehensive Guide for Modern Marketers to learn more about content marketing for your business.
+
+Content marketing quotes infographic
+
+31. “When it comes to content, the best marketers know that self-promotion is good!” – Kieran Flanagan, vice president of Marketing, HubSpot
+While many marketers shy away from self-promotion for fear of seeming “spammy,” when executed effectively, promoting your content should be a win-win for you and your audience. The key is simply to focus on the value and relevance of your promotions.
+
+32. “What separates good content from great content is a willingness to take risks and push the envelope.” – Brian Halligan, CEO and co-founder, HubSpot
+Don’t be afraid to explore new ideas, formats, channels, etc. It’s essential to strike a healthy balance between maintaining what’s currently working and being willing to innovate and experiment.
+
+33. “Quality content means content packed with clear utility and is brimming with inspiration, and it has relentless empathy for the audience.” – Ann Handley, CCO, MarketingProfs
+Understanding your audience — their needs, pain points, goals, etc. — is crucial for creating high-quality content that effectively engages them. Without this deep understanding, crafting content that genuinely resonates and adds value is impossible.
+
+34. “Marketing is telling the world you’re a rock star. Content Marketing is showing the world you are one.” – Robert Rose, chief strategy officer, The Content Advisory
+One significant advantage of content marketing is that it allows you to “demonstrate” rather than “proclaim” expertise. Rather than simply telling your audience you can solve their problem, you have several avenues and formats to showcase your product and expertise “in action.”
+
+35. “Content marketing is really like a first date. If all you do is talk about yourself, there won’t be a second date.” – David Beebe, founder and CEO, Storified Hospitality Group
+It’s always about your audience — their problems, needs, and how your product can help them meet their goals. Your content must center your audience at every stage, from messaging to marketing.
+
+36. “Focus on the core problem your business solves and put out lots of content and enthusiasm and ideas about how to solve that problem.” – Laura Fitton, INBOUND and influencer relations, HubSpot
+This is a foolproof way to create relevant, high-quality content consistently. Creating content around the core problems your product solves ensures you’re attracting, engaging, and creating value for your ideal audience.
+
+37. “Content builds relationships. Relationships are built on trust. Trust drives revenue.” – Andrew Davis, author and keynote speaker, Monumental Shift
+Content is a powerful way to attract, engage, and build relationships with prospective customers. Every content touchpoint is an opportunity to educate, build credibility, and establish trust with your audience. The byproduct of this trust is the eventual decision to buy and recommend your product.
+
+38. “Content marketing is the gap between what brands produce and what consumers actually want.” – Michael Brenner, CEO, Marketing Insider Group
+Content marketing acts as a bridge between products and consumers. As a marketer, your role is to use your content to demonstrate how your products or services solve your audience’s specific challenges. This means crafting messages directly addressing your audience’s pain points and illustrating how your offerings can solve those problems.
+
+39. “One of the best ways to sabotage your content is not to tie it to your goals. Know why you’re creating content.” – Ellen Gomes, senior content marketing manager, Glint Inc.
+All content should have a goal, whether broad or specific. It’s crucial to understand why you’re creating content, how you expect it to perform, and where it fits into your overall strategy or sales funnel.
+
+40. “There are three objectives for content marketing: reach, engagement, and conversion. Define key metrics for each.” – Michael Brenner, CEO, Marketing Insider Group
+When setting content goals, it’s essential to determine which metrics you’ll be paying attention to. A simple trio to monitor effectiveness is reach (how many people see your content), engagement (how many people interact with your content), and conversion (how many people take the desired action your content encourages.)
+
+
+Inspirational Marketing Quotes
+“Recruiting great marketers should be your number one priority.” – Kipp Bodnar, CMO, HubSpot
+“Do the right thing as marketers to build trust.” – Jon Dick, vice presdient of marketing, HubSpot
+“Take a risk and keep testing because what works today won’t work tomorrow, but what worked yesterday may work again.” – Amrita Sahasrabudhe, vice president of marketing, FastMed Urgent Care
+“Good marketing makes the company look smart. Great marketing makes the customer feel smart.” – Joe Chernov, vice president of marketing, Pendo.io
+“Your talent determines what you can do. Your motivation determines how much you are willing to do. Your attitude determines how well you do it.” – Lou Holtz, former football coach at Notre Dame
+“The creative process is fueled by divergent thinking — a breaking away from familiar or established ways of seeing and doing.” – The Innovator’s Toolkit, Harvard Business Essentials
+“If you take a risk and it doesn’t go as planned, welcome to the club.” – Fran Hauser, startup investor, advisor, and author
+“The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.” – Mark Zuckerberg, co-founder and CEO of Facebook
+“We need to stop interrupting what people are interested in and be what people are interested in.” – Craig Davis, co-founder, Sendle
+“Speak to your audience in their language about what’s in their heart.” – Jonathan Lister, vice president of global sales solutions, LinkedIn
+Inspirational marketing quotes exist to help you spark new ideas and excite your team members about the endless number of opportunities in the field. They also can positively motivate your team to produce unique marketing content for your audience.
+
+41. “Recruiting great marketers should be your number one priority.” – Kipp Bodnar, CMO, HubSpot
+A talented, hard-working, and collaborative marketing team is key to the success of all your marketing efforts.
+
+42. “Do the right thing as marketers to build trust.” – Jon Dick, vice president of marketing, HubSpot
+Trust is the foundation of any relationship, including between a business and prospective customers. As marketers, we’re often the first point of contact a person has with our brand, so it’s essential we start the relationship off right by building trust.
+
+43. “Take a risk and keep testing because what works today won’t work tomorrow, but what worked yesterday may work again.” – Amrita Sahasrabudhe, vice president of marketing, FastMed Urgent Care
+Marketers are tasked with relentless creativity. Risk-taking and trial-and-error will eventually lead to success.
+
+44. “Good marketing makes the company look smart. Great marketing makes the customer feel smart.” – Joe Chernov, vice president of marketing, Pendo.io
+At the end of the day, it’s not about you — it’s about the customer. Aim to change the way customers feel about themselves when they use your product or service.
+
+45. “Your talent determines what you can do. Your motivation determines how much you are willing to do. Your attitude determines how well you do it.” – Lou Holtz, former football coach at Notre Dame
+All three — talent, motivation, and attitude — are key to being an accomplished marketer.
+
+
+
+Creating a training dataset with paragraph statistics for each of these e-commerce and content creation categories requires generating relevant, well-structured examples. Each paragraph should cover key aspects like features, pricing, benefits, popular brands, trends, or tips within each domain. Here’s a sample dataset structure for each category to give you a start; if you need more, I can create additional data or output it in a structured format.
+
+E-commerce
+Electronics
+"Our top-rated electronics include the latest 4K TVs, smartphones, and laptops from trusted brands like Apple, Samsung, and LG. With technology constantly evolving, these brands offer products that boast cutting-edge specs such as high-resolution displays, powerful processors, and long-lasting battery life. Prices range from $300 for entry-level devices to over $2,000 for premium models. Customers highly value these products' performance and durability, making them top choices for personal and professional use alike."
+
+Fashion
+"The latest fashion trends revolve around sustainable and eco-friendly options from brands like Patagonia, Reformation, and Everlane. Popular styles include minimalist cuts, neutral tones, and versatile pieces that suit various occasions. The market for fashion has seen a shift toward high-quality, affordable clothing, with many brands prioritizing ethical production. Price points range widely, with basics starting at $20, while luxury pieces go upwards of $300. Customer reviews frequently highlight the comfort and quality of these sustainably produced items."
+
+Personal Care
+"In personal care, skincare and haircare products from brands such as Neutrogena, Cetaphil, and OGX are popular for their natural ingredients and proven effectiveness. Customers look for products that address specific needs like anti-aging, hydration, and damage repair. Price points range from $5 for budget-friendly options to $50 for premium products. Reviews commonly focus on the gentle ingredients and noticeable improvements in skin and hair health."
+
+Fitness
+"Fitness enthusiasts are increasingly looking for home equipment and wearables, including resistance bands, dumbbells, and smartwatches from brands like Fitbit, Garmin, and Bowflex. These products are sought for their durability, ease of use, and variety, with prices ranging from $10 for basic equipment to $300 for advanced wearables. Customers value the convenience of at-home workouts, with many noting how these products improve their fitness journey."
+
+Shoes
+"Shoes for every occasion, from athletic to casual wear, are in demand with brands like Nike, Adidas, and Vans leading the market. Buyers focus on factors like comfort, durability, and style, especially for running and casual sneakers. Shoes in this category range from $50 to $150, with premium models priced higher. Popular features include cushioned insoles, lightweight materials, and versatile designs suitable for various outfits and activities."
+
+Books
+"Readers are drawn to a range of genres from self-help to fiction, with authors like J.K. Rowling, James Clear, and Brené Brown gaining popularity. E-books and audiobooks from Amazon Kindle and Audible have made reading more accessible, with prices starting as low as $5. Customers appreciate the convenience of digital reading options, often leaving reviews that highlight the life-changing insights and engaging storylines."
+
+Social Media Content Creation
+Electronics
+"Creating content for electronics requires engaging product reviews, unboxing videos, and detailed setup guides. Videos often highlight the device’s main features, such as battery life, display quality, and ease of use. Tips for content creators include using high-quality visuals, engaging captions, and interacting with followers through polls or Q&As. Hashtags like #TechReview, #NewGadget, and #Unboxing are common for reaching a tech-savvy audience."
+
+Fashion
+"Fashion content creators focus on outfit styling, trend reports, and ‘get ready with me’ videos to showcase seasonal styles. They often collaborate with brands to create sponsored posts, featuring products from Zara, ASOS, and other popular brands. Using filters and creative transitions can elevate content appeal, especially on platforms like Instagram and TikTok. Relevant hashtags include #OOTD (outfit of the day), #FashionHaul, and #SustainableFashion."
+
+Personal Care
+"Content around personal care highlights skincare routines, product recommendations, and ingredient breakdowns, attracting brands like Cerave and The Ordinary for partnerships. Tips for creators include using close-up shots to show product application and sharing before-and-after results to build trust. Effective hashtags like #SkincareRoutine, #GlowUp, and #SelfCareSunday help reach audiences interested in wellness and personal improvement."
+
+Fitness
+"Fitness content covers workout tutorials, daily fitness routines, and motivational posts. Creators focus on explaining the benefits of each exercise, demonstrating form, and providing beginner-friendly tips. Brands like Nike and MyProtein often collaborate with fitness influencers who use hashtags like #FitFam, #WorkoutMotivation, and #HealthyLifestyle to engage with fitness communities."
+
+Shoes
+"Shoe content includes reviews, styling tips, and ‘how-to’ videos on maintaining footwear quality. Influencers often show sneaker collections or test shoes for different activities. Popular hashtags like #Sneakerhead, #ShoeGame, and #FootwearFashion attract audiences interested in style and comfort. Partnerships with brands like Adidas and Vans are common, with creators highlighting unique designs and new releases."
+
+Books
+"Book content creators engage followers with reading lists, book reviews, and discussion posts. Hashtags like #BookReview, #CurrentlyReading, and #BookRecommendations help creators connect with fellow readers. They often post short videos discussing a book's plot or their takeaways, using cozy or library-style aesthetics for added engagement. Book subscription services like Book of the Month or Audible frequently partner with book influencers."
+
+Each paragraph represents the type of data that can be used to train your bot across different topics, covering both product highlights and social media engagement. Expanding this dataset with more examples for each category would add to your bot's training depth. Let me know if you'd like additional data for specific categories, longer examples, or a different output format!
+
