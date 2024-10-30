@@ -25,13 +25,13 @@ TrendWiz is an AI-driven solution built to generate engaging marketing content f
 - **Tailored Suggestions**: Adjust content style and tone for each platform with Gemini API insights.
 - **Real-Time Integration**: Use ngrok to instantly test and deploy content changes.
 
-## Team
+## Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: ngrok, Hugging Face GPT-2 Model
 - **APIs**: Gemini API for targeted audience insights
 
-## Tech Stack
+## Team
 
 - **Rohit Mangale**
 - **Pratham Matkar**
